@@ -41,3 +41,4 @@ print(multiline)
 #string method 
 print(first.lower())
 print(first.upper())
+print(first.capitalize())
